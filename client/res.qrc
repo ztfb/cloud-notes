@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/close.png</file>
+        <file>resource/max1.png</file>
+        <file>resource/max2.png</file>
+        <file>resource/min.png</file>
+        <file>resource/settings.png</file>
+        <file>resource/find.png</file>
+        <file>resource/down.png</file>
+        <file>resource/last.png</file>
+        <file>resource/next.png</file>
+        <file>resource/new.png</file>
+        <file>resource/collect1.png</file>
+        <file>resource/collect2.png</file>
+        <file>resource/delete.png</file>
+        <file>resource/edit.png</file>
+        <file>resource/putout.png</file>
+        <file>resource/share.png</file>
+        <file>resource/save.png</file>
+    </qresource>
+</RCC>

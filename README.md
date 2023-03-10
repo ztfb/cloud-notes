@@ -1,37 +1,43 @@
-# CloudNotes
+# 云笔记
 
-#### 介绍
-云笔记——基于QT C++和SpringBoot
+## 一、介绍
 
-#### 软件架构
-软件架构说明
+大多数情况下，直接使用文本文件（txt文件）做笔记，并保存在本地PC机上，这种本地笔记存在以下的缺点：一是数据容易丢失，当本地PC机的磁盘发生损坏时，由于一般不存在数据备份，大量的数据可能直接丢失；二是不方便管理，在本地PC机上可以建立文件夹实现笔记的分类管理，但是当存在大量笔记时，使用笔记的标题，标签，内容等特征查询特定笔记并不方便；三是不方便共享，本地写好的笔记，无法直接共享给其他人进行修改。由于本地笔记存在以上的缺点，因此本实验计划开发一个数据保存在公共服务器上的“云笔记”系统，试图克服本地笔记的上述缺点。
 
+## 二、运行截图
 
-#### 安装教程
+1.登录界面
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+<img src="image/login.png" style="zoom:50%;" />
 
-#### 使用说明
+2.注册界面
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+<img src="image/register.png" style="zoom:50%;" />
 
-#### 参与贡献
+3.个人中心
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+<img src="image/center.png" style="zoom:50%;" />
 
+4.所有笔记
 
-#### 特技
+<img src="image/notes.png" style="zoom:50%;" />
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+5.修改笔记特征
+
+<img src="image/modify.png" style="zoom:50%;" />
+
+6.查询笔记
+
+<img src="image/find.png" style="zoom:50%;" />
+
+7.更改权限
+
+<img src="image/power.png" style="zoom:50%;" />
+
+8.编辑笔记
+
+<img src="image/edit.png" style="zoom:50%;" />
+
+9.创建共享笔记
+
+<img src="image/create.png" style="zoom:50%;" />
